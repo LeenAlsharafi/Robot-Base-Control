@@ -11,3 +11,4 @@ when Clicking on any of the five buttons, it will add a new row in the database 
 
 Then, php page will retrieve the last direction submitted by the user :
 # PHP Page : 
+![Screenshot (710)](https://user-images.githubusercontent.com/65510649/123108926-84275680-d443-11eb-97bc-ad20c38391f6.png)
