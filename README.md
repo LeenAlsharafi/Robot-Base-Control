@@ -6,3 +6,8 @@
 
 when Clicking on any of the five buttons, it will add a new row in the database table to specify which direction the robot must go.
 # Directions stored in the database : 
+
+![Screenshot (713)](https://user-images.githubusercontent.com/65510649/123107308-1a5a7d00-d442-11eb-9fac-fdee3999d552.png)
+
+Then, php page will retrieve the last direction submitted by the user :
+# PHP Page : 
