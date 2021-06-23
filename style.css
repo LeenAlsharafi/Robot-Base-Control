@@ -1,0 +1,61 @@
+body {
+    background-image: url("background.png");
+    font-family: 'Lemonada', cursive;
+    
+  }
+  .robot {
+      margin-right: 47rem;
+      margin-top: 6rem;
+  }
+
+  input {
+      font-size: 4rem;
+   background-color: #e6eeff;
+   color: #002066;
+    transition-duration: 0.4s;
+    border: none;
+    outline: none;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    border-radius: 3rem;
+    position: absolute;
+    opacity: .6;
+  }
+  input:hover {
+    background-color: #6699CC;
+  }
+  #forward {
+    display: block;
+    margin-right: 19rem;
+    margin-top: 11rem;
+}
+#backward {
+    display: block;
+    margin-right: 18rem;
+    margin-top: 27rem;
+    
+}
+#left {
+    margin-right: 32rem;
+    margin-top: 20rem;
+}
+#stop {
+    margin-top: 20rem;
+    margin-right: 18rem;
+    background-color: #6699CC;
+}
+#stop:hover {
+    background-color: #3A70A6;
+}
+#right {
+    margin-top: 20rem;
+    margin-right: 4rem;
+}
+.title {
+    color: #ffff;
+    font-size: 4rem;
+    margin-right: 30rem;
+    border-bottom: .1rem solid #ffff;
+    position: absolute;
+    opacity: .5;
+}
